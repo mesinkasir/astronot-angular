@@ -6,6 +6,8 @@ Astronot Doc : [https://astronot.axcora.com](https://astronot.axcora.com)
 
 Astronot Angular Doc & Demo : [https://astronot.web.app](https://astronot.web.app)
 
+Starter Project Download : [https://astronot.axcora.com/starter.html](https://astronot.axcora.com/starter.html)
+
 ---------------------
 
 ### Design layout
@@ -40,3 +42,5 @@ Mobile version display
 Astronot Doc : [https://astronot.axcora.com](https://astronot.axcora.com)
 
 Astronot Angular Doc & Demo : [https://astronot.web.app](https://astronot.web.app)
+
+Starter Project Download : [https://astronot.axcora.com/starter.html](https://astronot.axcora.com/starter.html)
