@@ -4,7 +4,7 @@ A single page app modern blog starter project built with astronot feat angular
 
 Astronot Doc : [https://astronot.axcora.com](https://astronot.axcora.com)
 
-Astronot Angular Doc : [https://astronot.web.app](https://astronot.web.app)
+Astronot Angular Doc & Demo : [https://astronot.web.app](https://astronot.web.app)
 
 ---------------------
 
@@ -39,4 +39,4 @@ Mobile version display
 
 Astronot Doc : [https://astronot.axcora.com](https://astronot.axcora.com)
 
-Astronot Angular Doc : [https://astronot.web.app](https://astronot.web.app)
+Astronot Angular Doc & Demo : [https://astronot.web.app](https://astronot.web.app)
