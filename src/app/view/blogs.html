@@ -1,0 +1,12 @@
+<div class="cards">
+
+<div class="card" *ngFor="let blog of blogs">
+   <img alt="{{blog.name}}" src="{{blog.cover}}"/>
+  <div class="card-content">
+   <h3>{{blog.name}}</h3>
+   <p>{{blog.description}}</p>
+</div>
+<a routerLink="/blog/{{blog.id}}" class="link"><button>{{blog.name}} →</button></a>
+</div>
+
+</div>
